@@ -8,7 +8,7 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName:  arcolinuxnew
+componentName:  phyOS
 
 
 ### WELCOME / OVERALL WORDING
@@ -122,17 +122,12 @@ navigation: widget
 # are set to "true" (they can also be overridden).
 strings:
     productName:         "@{NAME}"
-    shortProductName:    ArcoLinux
-    version:             3.0
-    shortVersion:        3.0
-    versionedName:       ArcoLinux
-    shortVersionedName:  ArcoLinux
-    bootloaderEntryName: ArcoLinux
-#    productUrl:          https://arcolinux.info/
-#    supportUrl:          https://arcolinuxforum.com/
-#    knownIssuesUrl:      https://arcolinux.info/
-#    releaseNotesUrl:     https://arcolinux.info/arcolinux-editions/
-#    donateUrl:           https://kde.org/community/donations/index.php
+    shortProductName:    phyOS
+    version:             10
+    shortVersion:        1.0
+    versionedName:       phyOS
+    shortVersionedName:  phyOS
+    bootloaderEntryName: phyOS
 
 # These images are loaded from the branding module directory.
 #
