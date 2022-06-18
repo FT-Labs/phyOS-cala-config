@@ -6,7 +6,7 @@
   packages:
     - sddm
     - simplicity-sddm-theme-git
-- name: "Login Manager: Lightdm (Default)"
+- name: "Login Manager: Lightdm"
   description: "Installs lightdm"
   critical: false
   hidden: false

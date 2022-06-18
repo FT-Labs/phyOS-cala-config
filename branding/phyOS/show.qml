@@ -42,12 +42,26 @@ Presentation
 
     }
 
-
     Slide {
         anchors.fill: parent
         anchors.verticalCenterOffset: 0
         Image {
             id: background2
+            source: "calamares-1.png"
+            width: parent.width; height: parent.height
+            verticalAlignment: Image.AlignTop
+            fillMode: Image.Stretch
+            anchors.fill: parent
+        }
+
+    }
+
+
+    Slide {
+        anchors.fill: parent
+        anchors.verticalCenterOffset: 0
+        Image {
+            id: background3
             source: "calamares-2.png"
             width: parent.width; height: parent.height
             verticalAlignment: Image.AlignTop
