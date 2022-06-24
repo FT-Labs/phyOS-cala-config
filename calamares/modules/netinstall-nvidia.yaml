@@ -2,7 +2,7 @@
   description: "Installs nvidia-dkms for linux kernel"
   critical: false
   hidden: false
-  selected: false
+  selected: true
   immutable: false
   expanded: false
   packages:
