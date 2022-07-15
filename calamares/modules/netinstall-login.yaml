@@ -32,10 +32,3 @@
   selected: false
   packages:
     - lxdm
-- name: "Login Manager: Ly"
-  description: "Installs ly"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - ly
