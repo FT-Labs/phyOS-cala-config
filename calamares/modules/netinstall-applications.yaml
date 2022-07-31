@@ -75,3 +75,14 @@
     - open-vm-tools
     - vmware-workstation
     - vmware-keymaps
+
+- name: "Games"
+  description: "Installs game applications"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: false
+  packages:
+    - steam
+    - gamemode
+    - lib32-gamemode

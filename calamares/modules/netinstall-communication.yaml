@@ -5,6 +5,7 @@
   selected: false
   expanded: true
   packages:
+    - discord
     - element-desktop
     - google-chat-linux-bin
     - hexchat
