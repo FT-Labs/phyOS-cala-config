@@ -2,7 +2,7 @@
   description: "Installs the latest linux kernel"
   critical: false
   hidden: false
-  selected: true
+  selected: false
   immutable: false
   expanded: false
   packages:
