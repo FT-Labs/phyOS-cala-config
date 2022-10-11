@@ -5,7 +5,8 @@
   selected: false
   packages:
     - sddm
-    - simplicity-sddm-theme-git
+    - phyOS-sddm-simplicity-theme
+    - phyOS-sddm-xenlism-theme
 - name: "Login Manager: Lightdm"
   description: "Installs lightdm"
   critical: false

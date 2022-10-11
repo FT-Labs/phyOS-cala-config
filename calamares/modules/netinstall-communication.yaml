@@ -7,6 +7,7 @@
   packages:
     - discord
     - element-desktop
+    - mattermost-desktop
     - google-chat-linux-bin
     - hexchat
     - jitsi-meet-desktop-bin
