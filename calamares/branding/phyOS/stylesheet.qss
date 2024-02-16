@@ -29,6 +29,12 @@ Use gammaray
 
 /* ########## MAIN APPLICATION WINDOW ########## */
 
+#mainApp {
+}
+
+#sidebarApp {
+}
+
 #mainText{
 	font : bold 16px;
 }
@@ -53,29 +59,6 @@ QWidget {
 	color: #58B2D7;
 }
 
-#debugButton {
-	font: bold 8px;
-	color: #FFFFFF;
-}
-#debugButton:hover {
-	color: #58B2D7;
-}
-
-#aboutButton:hover {
-	color: #58B2D7;
-}
-#donateButton:hover {
-	color: #58B2D7;
-}
-#supportButton:hover {
-	color: #58B2D7;
-}
-#knownIssuesButton:hover {
-	color: #58B2D7;
-}
-#releaseNotesButton:hover {
-	color: #58B2D7;
-}
 
 /* ########## TOOLTIP ########## */
 
@@ -131,7 +114,6 @@ QListView {
 }
 
 QListView::item:alternate {
-	color: #58B2D7;
 	color: black;
 }
 
@@ -340,9 +322,21 @@ QProgressBar::chunk {
 }
 
 #debugButton {
-	font: bold 8px;
-	color: #353945;
+	background-color: none;
+	font: 12px;
+	color: #edecf0;
+    	height: 32px;
+    	border: none;
 }
+
 #debugButton:hover {
-	color: #353945;
+	color: #ff7f7f;
+}
+
+#aboutButton {
+	background-color: none;
+	font: 12px;
+	color: #edecf0;
+    	height: 32px;
+    	border: none;
 }
